@@ -1,0 +1,19 @@
+body {
+    background: rgb(0, 0, 0);
+    user-select: none;
+}
+
+.info {
+    color: azure;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 1em;
+    width: calc(100vw - 60%);
+    margin: 0 auto;
+    text-align: center;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
